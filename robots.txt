@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: https://canop3n3r.github.io/sitemap.xml
 Sitemap: https://canop3n3r.github.io/grease-pencil-co/sitemap.xml
